@@ -1,0 +1,8 @@
+{
+  "name": "CoffeeCart",
+  "app_id": "49956cc3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
